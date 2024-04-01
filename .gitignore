@@ -95,3 +95,6 @@ pattern/.mvn/wrapper/maven-wrapper.jar
 .idea/libraries/Maven__org_springframework_spring_test_5_0_7_RELEASE.xml
 .idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml
 .idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/sonarlint/issuestore/index.pb
+.idea/vcs.xml
